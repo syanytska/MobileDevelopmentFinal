@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "heVb2RB6gvvIHOriO4nRDDjaMHuvBUybpLBwGwjAwgk=",
+  "Source": "BmiApi",
+  "BasePath": "_content/BmiApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
